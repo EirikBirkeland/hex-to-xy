@@ -6,7 +6,8 @@
     "ava": "^0.23.0"
   },
   "dependencies": {
-    "@q42philips/hue-color-converter": "^1.0.0"
+    "@q42philips/hue-color-converter": "^1.0.0",
+    "hex-rgb": "^1.0.0"
   },
   "name": "hex-to-xy",
   "version": "0.0.1",
